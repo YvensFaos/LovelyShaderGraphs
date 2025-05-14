@@ -39,13 +39,15 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 0
-    - _CloudLerp: 0.34
-    - _CloudScale: 0.2
+    - _CloudLerp: 0.29
+    - _CloudScale: 0.1
+    - _CounterCloudScale: 0
+    - _CounterSpeedFactor: -0.2
     - _Metallic: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 0
-    - _SpeedFactor: 1.2
+    - _SpeedFactor: 2.2
     m_Colors:
     - _CloudDirection: {r: 1, g: 0.4, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
