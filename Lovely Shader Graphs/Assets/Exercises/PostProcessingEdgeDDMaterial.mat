@@ -41,8 +41,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Lerp: 0
-    - _OutlinePower: 0.8
+    - _Lerp: 0.48
+    - _OutlinePower: 2.1
     m_Colors:
     - _OutlineColor: {r: 1, g: 0.051955897, b: 0.033018887, a: 1}
   m_BuildTextureStacks: []
