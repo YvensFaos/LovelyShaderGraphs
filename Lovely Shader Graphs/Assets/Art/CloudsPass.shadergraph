@@ -1092,8 +1092,8 @@
     "m_ObjectId": "2529330c5457409ba0dfb6666e0c2154",
     "m_Title": "Cloud Noise",
     "m_Position": {
-        "x": -1355.9998779296875,
-        "y": -384.0
+        "x": -1356.0,
+        "y": -383.5
     }
 }
 
@@ -2135,8 +2135,8 @@
     "m_ObjectId": "6aab1268f8a14ecab7cedff9d3556866",
     "m_Title": "Generate World UVs",
     "m_Position": {
-        "x": -2452.000244140625,
-        "y": -579.0
+        "x": -2452.0,
+        "y": -578.5
     }
 }
 
