@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PostProcessingEdgeDDMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 96754e56332294671a8dd83513510e36, type: 3}
+  m_Name: Shader Graphs_Ex5
+  m_Shader: {fileID: -6465566751694194690, guid: ded3f0ec7c0cb423ba01dec5853997b4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 8400000, guid: aa81dff05c1164e28afed1e1cc534079, type: 2}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -40,14 +40,12 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats:
-    - _Lerp: 0
-    - _OutlinePower: 0.8
+    m_Floats: []
     m_Colors:
-    - _OutlineColor: {r: 1, g: 0.051955897, b: 0.033018887, a: 1}
+    - _Color: {r: 0.17776956, g: 0.90588236, b: 0.031372543, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &6758375060463029309
+--- !u!114 &8389915972833602797
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
